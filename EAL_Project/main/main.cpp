@@ -10,10 +10,10 @@ extern "C" {
 
 #include <string>
 
-#define WIFI_SSID "SKY"
-#define WIFI_PASSWORD "00000000"
-#define API_KEY "AIzaSyDw8YOffUR4VBr-IeX9pxB96Ajfl6ydzGw"
-#define DATABASE_URL "https://eal-lab-default-rtdb.asia-southeast1.firebasedatabase.app/"
+#define WIFI_SSID ""
+#define WIFI_PASSWORD ""
+#define API_KEY ""
+#define DATABASE_URL ""
 
 #define NUM_LEDS 6
 #define NUM_DETECTORS 3
